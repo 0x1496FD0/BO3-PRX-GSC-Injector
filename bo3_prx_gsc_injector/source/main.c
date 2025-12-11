@@ -38,7 +38,7 @@ int32_t attr_public plugin_load(int32_t argc, const char* argv[])
 #pragma endregion
 	snprintf(g_gsc_dir_str, sizeof(g_gsc_dir_str), "/data/%s", g_pluginName);
 	if (!dir_or_file_exist(g_gsc_dir_str, 0))
-		sceKernelMkdir(g_gsc_dir_str, 0);
+		sceKernelMkdir(g_gsc_dir_str, 0777);
 
 	char module[256];
     snprintf(module, sizeof(module), "/%s/common/lib/%s", sceKernelGetFsSandboxRandomWord(), "libScePad.sprx");

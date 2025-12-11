@@ -12,7 +12,7 @@
 attr_public const char *g_pluginName = "BO3 PRX GSC Injector";
 attr_public const char *g_pluginDesc = ".gscc injector for Black ops 3 compatible with any fw supported by https://github.com/GoldHEN/GoldHEN_Plugins_SDK (Jul 12, 2023)";
 attr_public const char *g_pluginAuth = "0xEB_0xFE";
-attr_public uint32_t g_pluginVersion = 0x00000001;
+attr_public uint32_t g_pluginVersion = 0x00000002;
 
 const u32 PAD_BUTTON_MODIFIER = ORBIS_PAD_BUTTON_L1;
 const u32 PAD_BUTTON_INJECT = PAD_BUTTON_MODIFIER | ORBIS_PAD_BUTTON_R3;
