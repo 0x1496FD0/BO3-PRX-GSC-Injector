@@ -10,7 +10,7 @@ A Black Ops 3 1.33 prx .gscc injector plugins for GoldHEN working on any jailbre
   3. Drop your __.gscc__ files inside __/data/BO3 PRX GSC Injector__ and rename them accordingly to follow the convention gscc_{__n__} where __n__ is the index of the script (__ex: gscc_0   gscc_1   gscc_2  ...__)
      (yeah i know it suck but the orbis kernel fn to list dir entries fail for some reason)
 
-# To read
+# Read this
     Make sure you are in the zm/mp lobby before injecting
     You can add and remove .gscc while in game just make sure to respect the naming convention
 
