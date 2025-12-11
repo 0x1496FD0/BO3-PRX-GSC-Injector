@@ -1,5 +1,5 @@
 # BO3-PRX-GSC-Injector
-A Black Ops 3 1.33 prx .gscc injector plugins for GoldHEN working on any jailbreakable firmware
+A Black Ops 3 1.33 prx .gscc injector plugin for GoldHEN working on any jailbreakable firmware
 
 # Installation
   1. Drop the .prx inside __/data/GoldHEN/plugins__
