@@ -11,7 +11,7 @@ A Black Ops 3 1.33 prx .gscc injector plugin for GoldHEN working on any jailbrea
      (yeah i know it suck but the orbis kernel fn to list dir entries fail for some reason)
 
 # Read this
-    Make sure you are in the zm/mp lobby before injecting
+    Make sure you are in the zm/mp/cp lobby before injecting
     You can add and remove .gscc while in game just make sure to respect the naming convention
 
 # Build dependencies
