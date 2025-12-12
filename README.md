@@ -16,3 +16,6 @@ A Black Ops 3 1.33 prx .gscc injector plugin for GoldHEN working on any jailbrea
 
 # Build dependencies
   https://github.com/GoldHEN/GoldHEN_Plugins_SDK
+
+# Installation/Showcase video
+  [![](https://img.youtube.com/vi/L76KVwBi7V8/0.jpg)](https://www.youtube.com/watch?v=L76KVwBi7V8)
