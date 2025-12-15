@@ -11,7 +11,7 @@ A Black Ops 3 1.33 prx .gscc injector plugin for GoldHEN working on any jailbrea
      (yeah i know it suck but the orbis kernel fn to list dir entries fail for some reason)
 
 # Filezilla users
-  Be carreful if you rename the .gscc file locally before transfering there is a bug on filezilla who cut 1 byte on your file if it doesnt have an extension on transfer (experienced on arch linux filezilla 3.69.5-2 from the pacman repo but the same bug probably exist for windows and other versions)
+  Be carreful if you rename the .gscc file locally before transfering it, there is a bug on filezilla which cut 1 byte off from your file if it doesnt have an extension on transfer (experienced on arch linux filezilla 3.69.5-2 from the pacman repo but the same bug probably exist for windows and other versions)
 
 # Read this
     Make sure you are in the zm/mp/cp lobby before injecting
