@@ -1,5 +1,6 @@
-#include "../include/main.h"
 #include <stdlib.h>
+
+#include "../include/main.h"
 
 s32 scePadReadState_hook(s32 handle, OrbisPadData* pad_data)
 {
