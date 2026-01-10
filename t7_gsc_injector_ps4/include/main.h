@@ -9,7 +9,7 @@
 #include "../include/game_offsets.h"
 
 #define VERSION "3.00"
-#define BUSY_INTERRUPT_S 1 // 1 second is ok, tested 500 it crashed the game every time
+#define BUSY_INTERRUPT_S 1 // 1 second is ok, tested 500ms it crashed the game every time
 
 char* g_notif_pfx = "⚡T7 GSC Injector";
 int g_errcode = 0;
