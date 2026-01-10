@@ -1,3 +1,0 @@
--I../../OpenOrbis/PS4Toolchain/include
--I../../GoldHEN_Plugins_SDK-main/include
--I./include
