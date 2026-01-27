@@ -8,7 +8,7 @@ A Black Ops 3 1.33 prx .gscc injector plugin for GoldHEN working on any jailbrea
   
   3. Drop your compiled gsc in __/data/T7 GSC Injector__
   
-  folder is auto created on run if non existent
+  folder is auto created on run if non existent,
   you can place your files in subfolders as long it's inside the master folder
 
 # Filezilla users
