@@ -6,18 +6,21 @@ A Black Ops 3 1.33 prx .gscc injector plugin for GoldHEN working on any jailbrea
      
   2. Register the .prx for your BO3 CUSA in __/data/GoldHEN/plugins.ini__
   
-  3. Drop your __.gscc__ files inside __/data/T7 GSC Injector__ (the folder is auto created on run if non existent) and rename them accordingly to follow the convention gscc_{n} where __{n}__ is the index of the script (__ex: gscc_0   gscc_1   gscc_2  ...__)
+  3. Drop your compiled gsc in __/data/T7 GSC Injector__
+  folder is auto created on run if non existent
+  you can place your files in subfolders as long it's inside the master folder
 
 # Filezilla users
   Be carreful if you rename the .gscc file locally before transfering it, there is a bug on filezilla which cut 1 byte off from your file if it doesnt have an extension on transfer (experienced on arch linux filezilla 3.69.5-2 from the pacman repo but the same bug probably exist for windows and other versions)
 
 # Read this
     Make sure you are in the zm/mp/cp lobby before injecting
-    You can add and remove .gscc while in game just make sure to respect the naming convention
+    You can add and remove .gscc while in game
 
 # Build dependencies
   https://github.com/GoldHEN/GoldHEN_Plugins_SDK
 
 # Installation/Showcase video
   The name of the latest prx file has changed since this video make sure to edit plugins.ini accordingly
+  Renaming files to gscc_... is no longer required since the last update
   [![](https://img.youtube.com/vi/L76KVwBi7V8/0.jpg)](https://www.youtube.com/watch?v=L76KVwBi7V8)
