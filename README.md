@@ -6,7 +6,7 @@ A Black Ops 3 1.33 prx .gscc injector plugin for GoldHEN working on any jailbrea
      
   2. Register the .prx for your BO3 CUSA in __/data/GoldHEN/plugins.ini__
   
-  3. Drop your compiled gsc in __/data/T7 GSC Injector__<br>
+  3. Drop your compiled gscs in __/data/T7 GSC Injector__<br>
   folder is auto created on run if non existent<br>
   you can place your files in subfolders as long it's inside the master folder
 
